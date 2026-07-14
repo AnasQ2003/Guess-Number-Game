@@ -12,7 +12,7 @@
 
 ## 🌟 Overview
 
-The **Guess Number Game** is a fun, Tkinter-based graphical desktop game developed as part of a structured Python learning curriculum at **BiStartX**. A random integer between **1 and 100** is secretly chosen at the start of each session. The player has exactly **10 attempts** to guess the correct number. After each wrong guess, the game provides directional feedback — *"Too low!"* or *"Too high!"* — along with the remaining attempt count. Running out of guesses or finding the answer triggers an appropriate message dialog, then automatically resets for a new round.
+The **Guess Number Game** is a fun, Tkinter-based graphical desktop game developed as part of a structured Python learning. A random integer between **1 and 100** is secretly chosen at the start of each session. The player has exactly **10 attempts** to guess the correct number. After each wrong guess, the game provides directional feedback — *"Too low!"* or *"Too high!"* — along with the remaining attempt count. Running out of guesses or finding the answer triggers an appropriate message dialog, then automatically resets for a new round.
 
 This project was built to practice and reinforce core Python programming concepts including:
 - Conditional logic (`if / elif / else`)
@@ -167,7 +167,7 @@ The game window opens immediately. Type any number between 1 and 100 and click *
 
 ---
 
-## 🧠 Learning Objectives (BiStartX Week 2)
+## 🧠 Learning Objectives
 
 > ✅ **Objective**: Understand how Python handles decision-making and repetition — teaching the computer to "think" and "repeat" actions based on conditions.
 
