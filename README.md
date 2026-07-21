@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🎲 Guess Number Game — Python Desktop GUI Game
 
 > An interactive number guessing game built with Python and Tkinter. Players have 10 attempts to guess a randomly generated number between 1 and 100, with real-time "Too High / Too Low" feedback on every try.
@@ -7,6 +9,8 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB.svg?style=flat-square&logo=python)](https://www.python.org/)
 [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-FF6F00.svg?style=flat-square)](https://docs.python.org/3/library/tkinter.html)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+
+</div>
 
 ---
 
@@ -191,7 +195,7 @@ The game window opens immediately. Type any number between 1 and 100 and click *
 ```
 MIT License
 
-Copyright (c) Guess Number Game ---2026 AnasQ2003
+Copyright (c) Guess Number Game --- 2026 AnasQ2003
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -224,8 +228,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 Made with 💧 and a lot of ☕
 
 **⭐ If you found this useful, please star the repository!**
-
-*Stay hydrated. Stay healthy.*
 
 </div>
 
